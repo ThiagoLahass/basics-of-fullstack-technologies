@@ -1,0 +1,14 @@
+{
+    "titulo": "O Senhor dos Anéis",
+    "autor": {
+        "nome": "J.R.R. Tolkien",
+        "idade": 81
+    },
+    "generos": [
+        "Fantasia",
+        "Aventura",
+        "Ficção"
+    ],
+    "publicado": true,
+    "anoPublicacao": 1954
+}
