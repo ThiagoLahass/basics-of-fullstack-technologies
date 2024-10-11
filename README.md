@@ -6,9 +6,7 @@ Bem-vindo ao repositório **Básicos de Tecnologias Fullstack**! Este projeto fo
 - [Tecnologias Abordadas](#tecnologias-abordadas)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Instalação](#instalação)
-- [Como Usar](#como-usar)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## 🌐 Tecnologias Abordadas
 
