@@ -1,0 +1,13 @@
+SELECT * FROM cliente;
+
+DELETE FROM cliente WHERE id = 4;
+
+SET SQL_SAFE_UPDATES = 0;
+
+DELETE FROM cliente WHERE salario < 4000;
+
+DELETE FROM cliente WHERE nome = 'Th';
+
+SET SQL_SAFE_UPDATES = 1;
+
+DELETE FROM cliente; -- NUNCA FAZER ISSO
