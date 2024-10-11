@@ -1,3 +1,12 @@
+# ⚛️ React - Interfaces Dinâmicas
+
+Aqui você encontrará um projeto básico em React, um dos frameworks mais populares para criar interfaces de usuário interativas.
+
+## 📚 Conceitos Abordados
+- Componentes funcionais
+- Hooks (useState, useEffect)
+- Gerenciamento de estado
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

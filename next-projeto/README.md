@@ -1,3 +1,12 @@
+# 🌐 Next.js - Aplicações Web React
+
+Este diretório contém um projeto básico utilizando Next.js, um framework React para renderização no servidor.
+
+## 📚 Conceitos Abordados
+- Renderização no servidor (SSR)
+- Páginas estáticas e dinâmicas
+- Roteamento com Next.js
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

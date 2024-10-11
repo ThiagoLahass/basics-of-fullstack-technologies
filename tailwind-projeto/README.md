@@ -1,3 +1,14 @@
+# 🎨 Tailwind CSS - Estilização Utilitária
+
+Este diretório contém um projeto básico que utiliza o Tailwind CSS, um framework utilitário para estilização rápida de páginas.
+
+## 📚 Conceitos Abordados
+- Estilização utilitária com classes CSS
+- Customização de estilos
+- Design responsivo com Tailwind
+
+Estilize suas páginas de forma ágil e eficiente usando Tailwind!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

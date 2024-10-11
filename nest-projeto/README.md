@@ -1,3 +1,12 @@
+# 🛠️ NestJS - Aplicações Server-side
+
+Este diretório contém um projeto básico utilizando NestJS, um framework poderoso para a construção de aplicações Node.js.
+
+## 📚 Conceitos Abordados
+- Criação de APIs RESTful
+- Estruturação de projetos com NestJS
+- Injeção de dependência
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
